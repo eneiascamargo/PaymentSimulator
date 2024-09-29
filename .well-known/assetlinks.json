@@ -1,3 +1,9 @@
-{
-  "test": "teste"
-}
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.payconic_simulator",
+    "sha256_cert_fingerprints":
+    ["2E:8A:E5:78:71:71:C8:E8:5E:B3:16:48:D4:D1:55:48:2F:35:33:7D:71:86:E1:15:6B:5D:94:93:CB:64:10:C8"]
+  }
+}]
